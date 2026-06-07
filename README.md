@@ -1,30 +1,52 @@
-# Hi there! 👋 I'm 
+Hi 👋, I'm Dipti Khapekar
+🎓 Diploma Student in Computer Engineering at Government Girls Polytechnic, Surat 🏫 Affiliated with Gujarat Technological University (GTU) 💻 Passionate about programming, web development, and learning new technologies 🚀 Exploring full-stack development and building real-world projects
 
-I'm a student at **Girls Polytechnic** with a passion for coding and learning new technologies. 💻  
+🛠️ Skills & Technologies
 
----
+👨‍💻 Programming Languages
 
-## 🛠 Skills
+Java
+C
+Python
+PHP
 
-- **Languages:** C, C++
-- **Currently Learning:** Data Structures & Algorithms, Problem Solving
-- **Interests:** Competitive Programming, Software Development
+🌐 Frontend Development
 
----
+HTML5
+CSS3
+JavaScript
 
-## 🌱 Learning & Projects
+🗄️ Databases
+MongoDB
+PostgreSQL
+MySQL
 
-- Exploring **C++ STL** and object-oriented programming concepts  
-- Working on small **projects and assignments** to improve coding skills  
+⚙️ Tools & Platforms
 
----
+Git & GitHub
+VS Code
+REST APIs
 
-## 📫 Connect with me
+📚 Currently Learning
 
-- GitHub: [Your GitHub URL]  
-- LinkedIn: [Your LinkedIn URL] *(optional)*  
-- Email: [Your Email]  
+Advanced React.js
+Backend Development
+Database Management
+Full Stack Web Development
 
----
+📊 GitHub Stats
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+GitHub Stats
+Top Languages
+
+🌟 Goals
+
+Build impactful projects
+Contribute to open source
+Become a skilled Full Stack Developer
+
+📫 Connect With Me
+
+LinkedIn:
+Email: diptikhapekar0@gmail.com
+⭐ “Keep Learning, Keep Building.”
