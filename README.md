@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dipti
+# Hi there! 👋 I'm 
 
 I'm a student at **Girls Polytechnic** with a passion for coding and learning new technologies. 💻  
 
